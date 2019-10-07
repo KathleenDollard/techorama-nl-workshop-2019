@@ -1,0 +1,20 @@
+Dont do math on dates
+never mix data types (floating point: single and double) 
+move most frequent items to bottom of switch expression when simplifying
+using test project to experiment
+single and doubles have infinity NaN and dont throw exceptions
+check box for integer overflow or underflow
+floats are faster / decimal are more precise
+combine overloading with generics
+use tuples to simplify switch expresions or statements
+maxValue + 1 does different things for different types
+async has a place in server side code for scalability
+use a switch expression for return values
+.NET Core apps can be self contained
+outside in refactoring with delgates
+0b for binary 0x for hex
+underscore _ for separators
+Ctrl K - D will format your source code
+local functions
+doubles have a huge range
+floating points number will never throw
